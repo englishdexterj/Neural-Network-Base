@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_input_nodes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_input_nodes",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
